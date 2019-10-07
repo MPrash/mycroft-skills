@@ -6,10 +6,10 @@ https://rawgit.com/MycroftAI/mycroft-skills/master/meta_editor.html
 Mouse functioning through voice assistant (Mycroft)
 
 ## Description 
-Allows to move mouse pointer up,down,right and left
-Let you know the current mouse location in pixels
-Allows to left and right click  and double click
-Allows to scroll mouse
+* Allows to move mouse pointer up,down,right and left
+* Let you know the current mouse location in pixels
+* Allows to left and right click  and double click
+* Allows to scroll mouse
 
 ## Examples 
 * "Move my mouse pointer up"
